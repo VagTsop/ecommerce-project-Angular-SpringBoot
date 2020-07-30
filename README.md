@@ -1,5 +1,7 @@
 # ecommerce-project-Angular-SpringBoot
 
+Full-stack appication built with Spring Boot on backend and Angular on Frontend. Communication between ends is done with Spring Data REST-API.
+
 ![productsGridBooks](productsGridBooks.png)
 
 ![productsGridCoffeeMugs](productsGridCoffeeMugs.png)
