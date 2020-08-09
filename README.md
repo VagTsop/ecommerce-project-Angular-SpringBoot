@@ -1,12 +1,12 @@
 # ecommerce-project-Angular-SpringBoot
 **Spring Boot
-*Developed a Full stack project with Angular and Spring Boot.
-*Leveraged the Hibernate API to develop a CRUD app with MySQL.
-*Developed REST APIs with Spring Data REST.
-*Developed custom queries using the Spring Data JPA.   
-*Accelerated the development process with Spring Data REST.
-*Applied pagination and sorting to REST API endpoints.
-*Configured default page sizes for REST APIs.
+-Developed a Full stack project with Angular and Spring Boot.
+-Leveraged the Hibernate API to develop a CRUD app with MySQL.
+-Developed REST APIs with Spring Data REST.
+-Developed custom queries using the Spring Data JPA.   
+-Accelerated the development process with Spring Data REST.
+-Applied pagination and sorting to REST API endpoints.
+-Configured default page sizes for REST APIs.
 
 
 
