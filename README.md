@@ -1,7 +1,6 @@
 # ecommerce-project-Angular-SpringBoot
-
 **Spring Boot
--Developed a Full stack project with Angular and Spring Boot.
+*Developed a Full stack project with Angular and Spring Boot.
 *Leveraged the Hibernate API to develop a CRUD app with MySQL.
 *Developed REST APIs with Spring Data REST.
 *Developed custom queries using the Spring Data JPA.   
